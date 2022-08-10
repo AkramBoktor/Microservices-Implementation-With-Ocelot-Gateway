@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductAPI", "..\OcelotGate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserAPI", "..\OcelotGatewayExample\OcelotGatewayExample\UserAPI\UserAPI.csproj", "{80E007A9-72BC-480E-A667-B94DC0C629BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{249A7E5F-079C-48FC-8F08-EFB0CFCED5D0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{80E007A9-72BC-480E-A667-B94DC0C629BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80E007A9-72BC-480E-A667-B94DC0C629BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80E007A9-72BC-480E-A667-B94DC0C629BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{249A7E5F-079C-48FC-8F08-EFB0CFCED5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{249A7E5F-079C-48FC-8F08-EFB0CFCED5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{249A7E5F-079C-48FC-8F08-EFB0CFCED5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{249A7E5F-079C-48FC-8F08-EFB0CFCED5D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
